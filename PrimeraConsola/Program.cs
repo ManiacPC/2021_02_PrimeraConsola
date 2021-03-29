@@ -12,8 +12,9 @@ namespace PrimeraConsola
         {
             // Interfaz de consola con opciones repetidas hasta interrupción voluntaria
 
-            Console.WriteLine("Bienvenido a la aplicación de consola!");
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("* Bienvenido a la aplicación de consola! *");
+            Console.WriteLine("------------------------------------------");
 
             while (true)
             {
