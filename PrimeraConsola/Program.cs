@@ -10,6 +10,8 @@ namespace PrimeraConsola
     {
         static void Main(string[] args)
         {
+            // Interfaz de consola sin que se repitan las opciones voluntariamente
+
             // Mensajes al usuario
             Console.WriteLine("Bienvenido a la aplicación de consola!");
             Console.WriteLine("--------------------------------------");
